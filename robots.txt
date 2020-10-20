@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /portal/
+Sitemap: https://www.trackuity.com/sitemap.xml
